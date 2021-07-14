@@ -1,2 +1,5 @@
 # Use the httpd-parent image as base
 FROM quay.io/redhattraining/httpd-parent
+
+
+USER 1001
